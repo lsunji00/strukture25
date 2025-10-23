@@ -1,4 +1,19 @@
-.DS_Store
-vj1/vj1
+# VS Code postavke
+.vscode/
+vj1/.vscode/
+vj2/.vscode/
+
+# Build i debug datoteke (macOS)
 *.o
 *.out
+*.exe
+*.dSYM/
+*.DS_Store
+
+# Izvršne datoteke nastale kompilacijom
+vj1/vj1
+vj2/vj2
+
+# Privremene datoteke i backupi
+*.log
+*~
