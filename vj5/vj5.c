@@ -47,7 +47,7 @@ int push(Position* head, double num){
     return EXIT_SUCCESS;
 }
 int pop(Position* head, double* result) {
-    if (head->next == NULL) return error("Stack is empty.\n");
+    if (head->next == NULL) return error("Lista je prazna.\n");
 
     Position* temp = head->next;
     *result = temp->num;
@@ -58,7 +58,7 @@ int pop(Position* head, double* result) {
 double calculatePostfix(Position* head, const char* filename) {
     FILE* file = fopen(filename, "r");
     if (!file) {
-        error("File could not be opened.\n");
+        error("Datoteka nije otvorena.\n");
         return EXIT_FAILURE;
     }
 
@@ -84,13 +84,13 @@ double calculatePostfix(Position* head, const char* filename) {
                 case '/':
                     if (b == 0) {
                         fclose(file);
-                        return error("Division by zero.\n");
+                        return error("Dijeljenje s nulom\n");
                     }
                     push(head, a / b);
                     break;
                 default:
                     fclose(file);
-                    return error("Unknown operator.\n");
+                    return error("Nepoznat operator.\n");
             }
         }
     }
