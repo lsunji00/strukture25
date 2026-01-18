@@ -1,0 +1,445 @@
+id;name;nickname;weight_class;wins;losses;draws;win_rate;ufc_fights
+1;Aaron Simpson;A-Train;Middleweight Bout;7;4;0;0.636;11
+2;Abel Trujillo;Killa;Lightweight Bout;6;4;0;0.6;11
+3;Adrian Yanez;-;Bantamweight Bout;6;3;0;0.667;9
+4;Aiemann Zahabi;-;Bantamweight Bout;8;2;0;0.8;10
+5;Ailin Perez;Fiona;Women's Bantamweight Bout;5;1;0;0.833;6
+6;Al Iaquinta;Raging;Lightweight Bout;9;6;0;0.6;15
+7;Alan Belcher;The Talent;Middleweight Bout;9;6;0;0.6;15
+8;Alan Jouban;Brahma;Welterweight Bout;8;5;0;0.615;13
+9;Albert Tumenov;Einstein;Welterweight Bout;5;3;0;0.625;8
+10;Alejandro Perez;Turbo;Bantamweight Bout;8;4;1;0.615;13
+11;Alex Pereira;Poatan;UFC Light Heavyweight Title Bout;10;2;0;0.833;12
+12;Alexander Volkanovski;The Great;UFC Featherweight Title Bout;14;3;0;0.824;17
+13;Alexander Volkov;Drago;Heavyweight Bout;13;5;0;0.722;18
+14;Alexandr Romanov;King Kong;Heavyweight Bout;7;3;0;0.7;10
+15;Alexandre Pantoja;The Cannibal;Flyweight Bout;14;4;0;0.778;18
+16;Alistair Overeem;The Demolition Man;Heavyweight Bout;12;8;0;0.6;20
+17;Aljamain Sterling;Funk Master;Bantamweight Bout;17;5;0;0.773;22
+18;Allan Nascimento;Puro Osso;Flyweight Bout;4;1;0;0.8;5
+19;Amanda Lemos;-;Women's Strawweight Bout;9;5;0;0.643;14
+20;Amanda Nunes;The Lioness;UFC Women's Bantamweight Title Bout;16;2;0;0.889;18
+21;Amir Albazi;The Prince;Flyweight Bout;5;1;0;0.833;6
+22;Anderson Silva;The Spider;UFC Middleweight Title Bout;17;7;0;0.708;25
+23;Andre Muniz;Sergipano;Middleweight Bout;6;4;0;0.6;10
+24;Andre Petroski;-;Middleweight Bout;8;4;0;0.667;12
+25;Anthony Hernandez;Fluffy;Middleweight Bout;9;2;0;0.818;11
+26;Anthony Johnson;Rumble;Welterweight Bout;13;6;0;0.684;19
+27;Anthony Rocco Martin;-;Lightweight Bout;9;6;0;0.6;15
+28;Arman Tsarukyan;Ahalkalakets;Lightweight Bout;10;2;0;0.833;12
+29;Arnold Allen;Almighty;Featherweight Bout;11;2;0;0.846;13
+30;Askar Askarov;Bullet;Flyweight Bout;3;1;1;0.6;5
+31;Asu Almabayev;Zulfikar;Flyweight Bout;6;1;0;0.857;7
+32;Azamat Murzakanov;The Professional;Light Heavyweight Bout;6;0;0;1.0;6
+33;Belal Muhammad;Remember the Name;Welterweight Bout;15;5;0;0.75;21
+34;Beneil Dariush;-;Lightweight Bout;17;7;1;0.68;25
+35;Benoit Saint Denis;God of War;Lightweight Bout;8;3;0;0.727;11
+36;Benson Henderson;Smooth;Lightweight Bout;11;3;0;0.786;14
+37;Bo Nickal;-;Middleweight Bout;5;1;0;0.833;6
+38;Bogdan Guskov;Hitman;Light Heavyweight Bout;4;1;1;0.667;6
+39;Brad Blackburn;Bad Brad;Welterweight Bout;3;2;0;0.6;5
+40;Brendan Allen;All In;Middleweight Bout;14;4;0;0.778;18
+41;Brett Johns;The Pikey;Bantamweight Bout;5;2;0;0.714;7
+42;Brian Ebersole;Bad Boy;Welterweight Bout;5;3;0;0.625;8
+43;Brian Foster;The Foster Boy;Welterweight Bout;3;2;0;0.6;5
+44;Brian Ortega;T-City;Featherweight Bout;8;5;0;0.615;14
+45;Brunno Ferreira;The Hulk;Middleweight Bout;6;2;0;0.75;8
+46;Bryan Battle;The Butcher;Welterweight Bout;7;1;0;0.875;9
+47;Bryan Caraway;Kid Lightning;Bantamweight Bout;6;4;0;0.6;10
+48;Bryce Mitchell;Thug Nasty;Featherweight Bout;9;3;0;0.75;12
+49;Cain Velasquez;-;Heavyweight Bout;12;3;0;0.8;15
+50;Caio Borralho;The Natural;Middleweight Bout;7;1;0;0.875;8
+51;Carla Esparza;Cookie Monster;Women's Strawweight Bout;10;6;0;0.625;16
+52;Carlos Felipe;Boi;Heavyweight Bout;3;2;0;0.6;5
+53;Carlos Prates;The Nightmare;Welterweight Bout;6;1;0;0.857;7
+54;Carlos Ulberg;Black Jag;Light Heavyweight Bout;9;1;0;0.9;10
+55;Casey Kenney;-;Bantamweight Bout;5;3;0;0.625;8
+56;Casey O'Neill;King;Women's Flyweight Bout;5;2;0;0.714;7
+57;Cathal Pendred;The Punisher;Welterweight Bout;4;2;0;0.667;6
+58;Cesar Almeida;Cesinha;Middleweight Bout;3;2;0;0.6;5
+59;Cezar Ferreira;Mutante;Middleweight Bout;9;6;0;0.6;15
+60;Chad Laprise;The Disciple;Lightweight Bout;6;4;0;0.6;10
+61;Chad Mendes;Money;Featherweight Bout;9;5;0;0.643;14
+62;Charles Oliveira;Do Bronxs;Lightweight Bout;24;11;0;0.686;36
+63;Charles Radtke;Chuck Buffalo;Welterweight Bout;4;2;0;0.667;6
+64;Chas Skelly;The Scrapper;Featherweight Bout;8;3;0;0.727;12
+65;Chase Hooper;The Dream;Lightweight Bout;8;4;0;0.667;12
+66;Cheick Kongo;-;Heavyweight Bout;11;6;1;0.611;18
+67;Chepe Mariscal;Machine Gun;Featherweight Bout;5;1;0;0.833;6
+68;Chris Curtis;Action-Man;Middleweight Bout;6;4;0;0.6;11
+69;Chris Duncan;The Problem;Lightweight Bout;6;1;0;0.857;7
+70;Chris Gutierrez;El Guapo;Bantamweight Bout;10;4;1;0.667;15
+71;Chris Wade;-;Lightweight Bout;5;2;0;0.714;7
+72;Chris Weidman;The All-American;Middleweight Bout;12;8;0;0.6;20
+73;Christian Leroy Duncan;CLD;Middleweight Bout;6;2;0;0.75;8
+74;Chuck Liddell;The Iceman;Light Heavyweight Bout;16;7;0;0.696;23
+75;Ciryl Gane;Bon Gamin;Heavyweight Bout;10;2;0;0.833;13
+76;Claudio Silva;Hannibal;Welterweight Bout;5;3;0;0.625;8
+77;Colby Covington;Chaos;Welterweight Bout;12;5;0;0.706;17
+78;Conor McGregor;The Notorious;Featherweight Bout;10;4;0;0.714;14
+79;Constantinos Philippou;-;Middleweight Bout;6;4;0;0.6;10
+80;Corey Anderson;Overtime;Light Heavyweight Bout;10;5;0;0.667;15
+81;Cory Sandhagen;-;Bantamweight Bout;11;5;0;0.688;16
+82;Cristiane Justino;Cyborg;UFC Women's Featherweight Title Bout;6;1;0;0.857;7
+83;Cub Swanson;-;Featherweight Bout;15;10;0;0.6;25
+84;Curtis Blaydes;Razor;Heavyweight Bout;14;5;0;0.737;20
+85;Curtis Millender;Curtious;Welterweight Bout;3;2;0;0.6;5
+86;Damir Ismagulov;Qazaq;Lightweight Bout;5;2;0;0.714;7
+87;Dan Hardy;The Outlaw;Welterweight Bout;6;4;0;0.6;10
+88;Dan Hooker;The Hangman;Lightweight Bout;14;9;0;0.609;23
+89;Dan Severn;The Beast;Open Weight Bout;9;4;0;0.692;13
+90;Daniel Cormier;DC;UFC Light Heavyweight Title Bout;11;3;0;0.786;15
+91;Daniel Kelly;-;Middleweight Bout;6;4;0;0.6;10
+92;Daniel Marcos;Soncora;Bantamweight Bout;5;1;0;0.833;7
+93;Daniel Rodriguez;D-Rod;Welterweight Bout;10;4;0;0.714;14
+94;Daniel Santos;Willycat;Catch Weight Bout;4;1;0;0.8;5
+95;Darren Elkins;The Damage;Featherweight Bout;19;11;0;0.633;30
+96;David Onama;-;Featherweight Bout;6;3;0;0.667;9
+97;David Teymur;-;Lightweight Bout;5;1;0;0.833;6
+98;Dean Lister;The Boogeyman;Middleweight Bout;4;2;0;0.667;6
+99;Deiveson Figueiredo;Deus da Guerra;Flyweight Bout;14;5;1;0.7;20
+100;Demetrious Johnson;Mighty Mouse;UFC Flyweight Title Bout;15;2;1;0.833;18
+101;Demian Maia;-;Welterweight Bout;22;11;0;0.667;33
+102;Denise Gomes;Dee;Women's Strawweight Bout;6;2;0;0.75;8
+103;Dennis Siver;-;Lightweight Bout;12;8;0;0.6;21
+104;Derek Brunson;The One;Middleweight Bout;14;7;0;0.667;21
+105;Derrick Lewis;The Black Beast;Heavyweight Bout;20;10;0;0.667;30
+106;Diego Brandao;DB;Featherweight Bout;6;4;0;0.6;10
+107;Diego Lopes;-;Featherweight Bout;6;2;0;0.75;8
+108;Dominick Cruz;The Dominator;UFC Bantamweight Title Bout;7;3;0;0.7;10
+109;Dominick Reyes;The Devastator;Light Heavyweight Bout;9;5;0;0.643;14
+110;Don Frye;The Predator;Open Weight Bout;9;1;0;0.9;10
+111;Donald Cerrone;Cowboy;Lightweight Bout;23;14;0;0.622;38
+112;Dong Hyun Kim;Stun Gun;Welterweight Bout;13;4;0;0.765;18
+113;Drakkar Klose;-;Lightweight Bout;10;3;0;0.769;13
+114;Dricus Du Plessis;Stillknocks;Middleweight Bout;9;1;0;0.9;10
+115;Dustin Poirier;The Diamond;Lightweight Bout;22;9;0;0.71;32
+116;Edmen Shahbazyan;The Golden Boy;Middleweight Bout;9;5;0;0.643;14
+117;Elias Silverio;Xuxu;Lightweight Bout;3;2;0;0.6;5
+118;Elias Theodorou;The Spartan;Middleweight Bout;8;3;0;0.727;11
+119;Elizeu Zaleski dos Santos;Capoeira;Welterweight Bout;11;6;1;0.611;18
+120;Enrique Barzola;El Fuerte;Featherweight Bout;6;3;1;0.6;10
+121;Erik Perez;Goyito;Bantamweight Bout;7;2;0;0.778;9
+122;Erin Blanchfield;Cold Blooded;Women's Flyweight Bout;8;1;0;0.889;9
+123;Esteban Ribovics;El Gringo;Lightweight Bout;4;2;0;0.667;6
+124;Evan Elder;The Phenom;Lightweight Bout;3;2;0;0.6;5
+125;Evan Tanner;-;Middleweight Bout;11;6;0;0.647;17
+126;Fabricio Werdum;Vai Cavalo;Heavyweight Bout;12;6;0;0.667;18
+127;Fares Ziam;The Smile Killer;Lightweight Bout;8;2;0;0.8;10
+128;Farid Basharat;Ferocious;Bantamweight Bout;5;0;0;1.0;5
+129;Forrest Griffin;-;Light Heavyweight Bout;10;5;0;0.667;15
+130;Francis Carmont;Limitless;Middleweight Bout;6;3;0;0.667;9
+131;Francis Ngannou;The Predator;Heavyweight Bout;12;2;0;0.857;14
+132;Francisco Trinaldo;Massaranduba;Lightweight Bout;18;8;0;0.692;26
+133;Frank Shamrock;-;UFC Light Heavyweight Title Bout;5;0;0;1.0;5
+134;Frankie Edgar;The Answer;Featherweight Bout;18;11;1;0.6;30
+135;Gabriel Bonfim;Marretinha;Welterweight Bout;6;1;0;0.857;7
+136;Gabriella Fernandes;Gabi;Women's Flyweight Bout;3;2;0;0.6;5
+137;Gegard Mousasi;-;Middleweight Bout;9;3;0;0.75;12
+138;Geoff Neal;Handz of Steel;Welterweight Bout;8;5;0;0.615;13
+139;George Sotiropoulos;-;Lightweight Bout;7;4;0;0.636;11
+140;Georges St-Pierre;Rush;UFC Welterweight Title Bout;20;2;0;0.909;22
+141;Germaine de Randamie;The Iron Lady;Women's Bantamweight Bout;7;3;0;0.7;10
+142;Giga Chikadze;Ninja;Featherweight Bout;8;4;0;0.667;12
+143;Gilbert Burns;Durinho;Welterweight Bout;15;9;0;0.625;24
+144;Gillian Robertson;The Savage;Women's Flyweight Bout;13;6;0;0.684;19
+145;Glover Teixeira;-;Light Heavyweight Bout;16;7;0;0.696;23
+146;Grant Dawson;KGD;Lightweight Bout;11;2;1;0.786;14
+147;Gregor Gillespie;The Gift;Lightweight Bout;7;1;0;0.875;8
+148;Gregory Rodrigues;Robocop;Middleweight Bout;9;3;0;0.75;12
+149;Gunnar Nelson;Gunni;Welterweight Bout;10;6;0;0.625;16
+150;Guy Mezger;-;Open Weight Bout;4;1;0;0.8;5
+151;Hakeem Dawodu;Mean;Featherweight Bout;6;4;0;0.6;10
+152;Henry Cejudo;Triple C;Flyweight Bout;10;6;0;0.625;16
+153;Hyder Amil;The Hurricane;Featherweight Bout;3;2;0;0.6;5
+154;HyunSung Park;Peace of Mind;Flyweight Bout;3;2;0;0.6;5
+155;Ian Machado Garry;The Future;Welterweight Bout;10;1;0;0.909;11
+156;Iasmin Lucindo;-;Women's Strawweight Bout;5;2;0;0.714;7
+157;Ignacio Bahamondes;La Jaula;Lightweight Bout;6;3;0;0.667;9
+158;Ikram Aliskerov;-;Middleweight Bout;4;1;0;0.8;5
+159;Ilia Topuria;El Matador;Featherweight Bout;9;0;0;1.0;9
+160;Islam Makhachev;-;Lightweight Bout;17;1;0;0.944;18
+161;Israel Adesanya;The Last Stylebender;UFC Middleweight Title Bout;13;5;0;0.722;18
+162;JJ Aldrich;-;Women's Flyweight Bout;10;6;0;0.625;16
+163;Jack Della Maddalena;-;Welterweight Bout;8;1;0;0.889;9
+164;Jack Jenkins;Phar;Featherweight Bout;4;2;0;0.667;6
+165;Jack Shore;Tank;Bantamweight Bout;6;3;0;0.667;9
+166;Jacob Volkmann;Christmas;Lightweight Bout;6;4;0;0.6;10
+167;Jacqueline Cavalcanti;-;Women's Bantamweight Bout;5;0;0;1.0;5
+168;Jafel Filho;Pastor;Flyweight Bout;3;2;0;0.6;5
+169;Jailton Almeida;Malhadinho;Heavyweight Bout;8;2;0;0.8;10
+170;Jairzinho Rozenstruik;Bigi Boy;Heavyweight Bout;9;6;0;0.6;15
+171;Jake Matthews;The Celtic Kid;Welterweight Bout;15;8;0;0.652;23
+172;Jamahal Hill;Sweet Dreams;Light Heavyweight Bout;6;4;0;0.6;11
+173;James Krause;The;Lightweight Bout;9;4;0;0.692;13
+174;James Vick;The Texecutioner;Lightweight Bout;9;5;0;0.643;14
+175;Jamey-Lyn Horth;-;Women's Flyweight Bout;4;2;0;0.667;6
+176;Jaqueline Amorim;-;Women's Strawweight Bout;4;2;0;0.667;6
+177;Jared Rosholt;-;Heavyweight Bout;6;2;0;0.75;8
+178;Jasmine Jasudavicius;-;Women's Flyweight Bout;8;3;0;0.727;11
+179;Javid Basharat;The Snow Leopard;Bantamweight Bout;3;2;0;0.6;6
+180;Jean Silva;Lord;Featherweight Bout;5;1;0;0.833;6
+181;Jens Pulver;Little Evil;Lightweight Bout;6;2;1;0.667;9
+182;Jeremiah Wells;-;Welterweight Bout;5;2;0;0.714;7
+183;Jerry Bohlander;-;Open Weight Bout;5;2;0;0.714;7
+184;Jesus Aguilar;-;Flyweight Bout;4;2;0;0.667;6
+185;Jhonata Diniz;-;Heavyweight Bout;3;2;0;0.6;5
+186;Jim Miller;A-10;Lightweight Bout;27;18;0;0.6;46
+187;Jimmie Rivera;El Terror;Bantamweight Bout;7;4;0;0.636;11
+188;Jiri Prochazka;-;Light Heavyweight Bout;6;2;0;0.75;8
+189;Joanderson Brito;Tubarao;Featherweight Bout;6;3;0;0.667;9
+190;Joanna Jedrzejczyk;-;UFC Women's Strawweight Title Bout;10;5;0;0.667;15
+191;Joaquin Buckley;New Mansa;Middleweight Bout;11;5;0;0.688;16
+192;Joe Pyfer;Bodybagz;Middleweight Bout;6;1;0;0.857;7
+193;Joel Alvarez;El Fenomeno;Lightweight Bout;8;2;0;0.8;10
+194;John Hathaway;The Hitman;Welterweight Bout;7;2;0;0.778;9
+195;John Lineker;Hands of Stone;Bantamweight Bout;12;4;0;0.75;16
+196;Johnny Case;Hollywood;Lightweight Bout;4;2;0;0.667;6
+197;Johny Hendricks;Bigg Rigg;Welterweight Bout;13;8;0;0.619;21
+198;Jon Fitch;-;Welterweight Bout;14;3;1;0.778;18
+199;Jon Jones;Bones;UFC Light Heavyweight Title Bout;22;1;0;0.957;24
+200;Jon Madsen;-;Heavyweight Bout;4;1;0;0.8;5
+201;Jonathan Martinez;Dragon;Bantamweight Bout;10;5;0;0.667;15
+202;Jordan Leavitt;The Monkey King;Lightweight Bout;5;3;0;0.625;8
+203;Jose Aldo;-;UFC Featherweight Title Bout;14;9;0;0.609;23
+204;Joselyne Edwards;La Pantera;Women's Bantamweight Bout;7;4;0;0.636;11
+205;Joseph Benavidez;-;Flyweight Bout;15;6;0;0.714;21
+206;Joseph Morales;Bopo;Flyweight Bout;3;2;0;0.6;5
+207;Josh Barnett;The Warmaster;Heavyweight Bout;7;3;0;0.7;10
+208;Josh Emmett;CC0;Featherweight Bout;10;6;0;0.625;16
+209;Josh Koscheck;-;Welterweight Bout;15;10;0;0.6;25
+210;Josh Samman;Anqa;Middleweight Bout;3;2;0;0.6;5
+211;Joshua Van;The Fearless;Flyweight Bout;9;1;0;0.9;10
+212;Julianna Pena;The Venezuelan Vixen;Women's Bantamweight Bout;8;4;0;0.667;12
+213;Julio Arce;-;Featherweight Bout;6;4;0;0.6;10
+214;JunYong Park;The Iron Turtle;Middleweight Bout;9;4;0;0.692;13
+215;Junior Dos Santos;Cigano;Heavyweight Bout;15;8;0;0.652;23
+216;Justin Gaethje;The Highlight;Lightweight Bout;9;5;0;0.643;14
+217;Justin Willis;Big Pretty;Heavyweight Bout;4;1;0;0.8;5
+218;Kai Kara-France;Don't Blink;Flyweight Bout;8;5;0;0.615;13
+219;Kamaru Usman;The Nigerian Nightmare;Welterweight Bout;16;3;0;0.842;19
+220;Karine Silva;Killer;Women's Flyweight Bout;5;2;0;0.714;7
+221;Karo Parisyan;The Heat;Welterweight Bout;8;4;0;0.667;13
+222;Karol Rosa;-;Women's Bantamweight Bout;8;4;0;0.667;12
+223;Katlyn Cerminara;Blonde Fighter;Women's Flyweight Bout;11;6;0;0.647;17
+224;Kenny Florian;KenFlo;Lightweight Bout;12;5;0;0.706;17
+225;Ketlen Vieira;Fenomeno;Women's Bantamweight Bout;9;5;0;0.643;14
+226;Khabib Nurmagomedov;The Eagle;Lightweight Bout;13;0;0;1.0;13
+227;Khamzat Chimaev;Borz;Middleweight Bout;9;0;0;1.0;9
+228;Khaos Williams;The OxFighter;Welterweight Bout;6;4;0;0.6;10
+229;Kiichi Kunimoto;Strasser;Welterweight Bout;3;2;0;0.6;5
+230;Krzysztof Jotko;-;Middleweight Bout;11;6;0;0.647;17
+231;Krzysztof Soszynski;The Polish Experiment;Light Heavyweight Bout;6;3;0;0.667;9
+232;Kyler Phillips;The Matrix;Bantamweight Bout;6;3;0;0.667;9
+233;Kyoji Horiguchi;-;Flyweight Bout;8;1;0;0.889;9
+234;Kyung Ho Kang;Mr. Perfect;Bantamweight Bout;8;5;0;0.615;14
+235;Laverne Clark;-;Lightweight Bout;4;1;0;0.8;5
+236;Leon Edwards;Rocky;Welterweight Bout;14;5;0;0.737;20
+237;Leonardo Santos;-;Lightweight Bout;7;3;1;0.636;11
+238;Lerone Murphy;The Miracle;Featherweight Bout;9;0;1;0.9;10
+239;Li Jingliang;The Leech;Welterweight Bout;11;7;0;0.611;18
+240;Loma Lookboonmee;-;Women's Strawweight Bout;7;3;0;0.7;10
+241;Loopy Godinez;-;Women's Strawweight Bout;9;5;0;0.643;14
+242;Luana Carolina;Dread;Women's Flyweight Bout;6;4;0;0.6;10
+243;Luana Santos;-;Women's Bantamweight Bout;5;1;0;0.833;6
+244;Ludovit Klein;Mr. Highlight;Lightweight Bout;8;3;1;0.667;12
+245;Luis Pena;Violent Bob Ross;Lightweight Bout;5;3;0;0.625;8
+246;Lyoto Machida;The Dragon;Light Heavyweight Bout;16;8;0;0.667;24
+247;Mackenzie Dern;-;Women's Strawweight Bout;11;5;0;0.688;16
+248;Macy Chiasson;-;Women's Bantamweight Bout;8;5;0;0.615;13
+249;Magnus Cedenblad;Jycken;Middleweight Bout;4;2;0;0.667;6
+250;Magomed Ankalaev;-;Light Heavyweight Bout;12;2;1;0.8;16
+251;Magomed Mustafaev;The Sniper;Lightweight Bout;3;2;0;0.6;5
+252;Mairbek Taisumov;Beckan;Lightweight Bout;7;2;0;0.778;9
+253;Makhmud Muradov;-;Middleweight Bout;4;2;0;0.667;7
+254;Manel Kape;StarBoy;Flyweight Bout;7;3;0;0.7;10
+255;Manny Bermudez;The Bermudez Triangle;Bantamweight Bout;3;2;0;0.6;5
+256;Manon Fiorot;The Beast;Women's Flyweight Bout;8;1;0;0.889;9
+257;Manuel Torres;El Loco;Lightweight Bout;5;1;0;0.833;6
+258;Marcin Tybura;Tybur;Heavyweight Bout;14;9;0;0.609;23
+259;Marco Ruas;King of the Streets;Open Weight Bout;4;2;0;0.667;6
+260;Marcos Rogerio de Lima;Pezao;Heavyweight Bout;11;7;0;0.611;18
+261;Marcus Davis;The Irish Hand Grenade;Welterweight Bout;9;6;0;0.6;15
+262;Marcus McGhee;The Maniac;Bantamweight Bout;4;1;0;0.8;5
+263;Mario Bautista;-;Bantamweight Bout;10;3;0;0.769;13
+264;Mark Bocek;-;Lightweight Bout;8;5;0;0.615;13
+265;Mark Madsen;The Olympian;Lightweight Bout;4;2;0;0.667;6
+266;Mark Munoz;The Filipino Wrecking Machine;Middleweight Bout;9;6;0;0.6;15
+267;Marlon Vera;Chito;Bantamweight Bout;15;10;0;0.6;25
+268;Martin Buday;Badys;Heavyweight Bout;7;1;0;0.875;8
+269;Martin Kampmann;The Hitman;Welterweight Bout;11;6;0;0.647;17
+270;Mason Jones;The Dragon;Lightweight Bout;3;2;0;0.6;6
+271;Mateusz Gamrot;Gamer;Lightweight Bout;8;4;0;0.667;12
+272;Matheus Nicolau;-;Flyweight Bout;7;4;0;0.636;11
+273;Matt Hamill;The Hammer;Light Heavyweight Bout;10;5;0;0.667;15
+274;Matt Hughes;-;Welterweight Bout;18;7;0;0.72;25
+275;Matt Lindland;The Law;Middleweight Bout;9;3;0;0.75;12
+276;Matt Mitrione;-;Heavyweight Bout;9;5;0;0.643;14
+277;Matthew Riddle;Deep Waters;Welterweight Bout;7;3;0;0.7;12
+278;Max Holloway;Blessed;Featherweight Bout;23;8;0;0.742;31
+279;Maycee Barber;The Future;Women's Flyweight Bout;10;2;0;0.833;12
+280;Melissa Gatto;-;Women's Flyweight Bout;3;2;0;0.6;5
+281;Melquizael Costa;Melk Cauthy;Featherweight Bout;6;2;0;0.75;8
+282;Melsik Baghdasaryan;The Gun;Featherweight Bout;3;2;0;0.6;5
+283;Merab Dvalishvili;The Machine;Bantamweight Bout;14;3;0;0.824;17
+284;Michael Bisping;The Count;Middleweight Bout;20;9;0;0.69;29
+285;Michael Chiesa;Maverick;Welterweight Bout;14;7;0;0.667;21
+286;Michael McDonald;Mayday;Bantamweight Bout;6;3;0;0.667;9
+287;Michael Morales;-;Welterweight Bout;7;0;0;1.0;7
+288;Michel Pereira;Demolidor;Welterweight Bout;9;5;0;0.643;14
+289;Michel Prazeres;Tractor;Lightweight Bout;10;4;0;0.714;14
+290;Mick Parkin;-;Heavyweight Bout;4;1;0;0.8;5
+291;Mike Davis;Beast Boy;Lightweight Bout;5;2;0;0.714;7
+292;Mike Malott;Proper;Welterweight Bout;6;1;0;0.857;7
+293;Mike Pierce;-;Welterweight Bout;9;5;0;0.643;14
+294;Mike Russow;-;Heavyweight Bout;4;2;0;0.667;6
+295;Mike Swick;Quick;Welterweight Bout;10;5;0;0.667;15
+296;Miranda Maverick;Fear The;Women's Flyweight Bout;8;4;0;0.667;12
+297;Mirsad Bektic;-;Featherweight Bout;6;4;0;0.6;10
+298;Modestas Bukauskas;The Baltic Gladiator;Light Heavyweight Bout;7;4;0;0.636;11
+299;Mohammed Usman;The Motor;Heavyweight Bout;4;2;0;0.667;6
+300;Montel Jackson;Quik;Bantamweight Bout;9;3;0;0.75;12
+301;Movsar Evloev;-;Featherweight Bout;9;0;0;1.0;9
+302;Muhammad Mokaev;The Punisher;Flyweight Bout;7;0;0;1.0;7
+303;Muhammad Naimov;Hillman;Featherweight Bout;5;2;0;0.714;7
+304;Muslim Salikhov;King of Kung Fu;Welterweight Bout;9;5;0;0.643;14
+305;Myktybek Orolbai;-;Welterweight Bout;4;1;0;0.8;5
+306;Myles Jury;Fury;Lightweight Bout;8;4;0;0.667;12
+307;Nasrat Haqparast;-;Lightweight Bout;10;5;0;0.667;15
+308;Nassourdine Imavov;The Sniper;Middleweight Bout;9;2;0;0.818;12
+309;Natalia Silva;-;Women's Flyweight Bout;7;0;0;1.0;7
+310;Nate Maness;Mayhem;Flyweight Bout;5;2;0;0.714;7
+311;Nate Quarry;Rock;Middleweight Bout;7;3;0;0.7;10
+312;Nathaniel Wood;The Prospect;Featherweight Bout;10;3;0;0.769;13
+313;Nazim Sadykhov;Black Wolf;Lightweight Bout;4;1;1;0.667;6
+314;Neil Magny;The Haitian Sensation;Welterweight Bout;24;13;0;0.649;37
+315;Nicolae Negumereanu;-;Light Heavyweight Bout;4;2;0;0.667;6
+316;Nora Cornolle;-;Women's Bantamweight Bout;3;2;0;0.6;5
+317;Norma Dumont;The Immortal;Women's Featherweight Bout;9;2;0;0.818;11
+318;Nursulton Ruziboev;Black;Middleweight Bout;4;1;0;0.8;5
+319;Oleg Taktarov;The Russian Bear;Open Weight Bout;6;2;1;0.667;9
+320;Omari Akhmedov;Wolverine;Middleweight Bout;9;5;1;0.6;15
+321;Paddy Holohan;The Hooligan;Flyweight Bout;3;2;0;0.6;5
+322;Paddy Pimblett;The Baddy;Lightweight Bout;7;0;0;1.0;7
+323;Pat Miletich;The Croatian Sensation;UFC Welterweight Title Bout;8;2;0;0.8;10
+324;Pat Sabatini;-;Featherweight Bout;8;2;0;0.8;10
+325;Patrick Smith;-;Open Weight Bout;4;1;0;0.8;5
+326;Paul Felder;The Irish Dragon;Lightweight Bout;9;6;0;0.6;15
+327;Paul Sass;-;Lightweight Bout;3;2;0;0.6;5
+328;Paulo Costa;The Eraser;Middleweight Bout;7;4;0;0.636;11
+329;Payton Talbott;-;Bantamweight Bout;5;1;0;0.833;6
+330;Pedro Rizzo;The Rock;Heavyweight Bout;9;5;0;0.643;14
+331;Petr Yan;No Mercy;Bantamweight Bout;12;4;0;0.75;16
+332;Phil Davis;Mr. Wonderful;Light Heavyweight Bout;9;3;0;0.75;13
+333;Philipe Lins;Monstro;Light Heavyweight Bout;4;2;0;0.667;6
+334;Piera Rodriguez;La Fiera;Women's Strawweight Bout;4;2;0;0.667;6
+335;Punahele Soriano;Puna;Middleweight Bout;6;4;0;0.6;10
+336;Quinton Jackson;Rampage;Light Heavyweight Bout;8;5;0;0.615;13
+337;Rafa Garcia;Gifted;Lightweight Bout;6;4;0;0.6;10
+338;Rafael Fiziev;Ataman;Lightweight Bout;7;4;0;0.636;11
+339;Ramazan Emeev;Gorets;Welterweight Bout;5;3;0;0.625;8
+340;Ramiz Brahimaj;-;Welterweight Bout;5;3;0;0.625;8
+341;Randy Brown;Rudeboy;Welterweight Bout;14;7;0;0.667;21
+342;Randy Couture;The Natural;UFC Heavyweight Title Bout;16;8;0;0.667;24
+343;Rani Yahya;-;Bantamweight Bout;13;6;1;0.65;21
+344;Raoni Barcelos;-;Bantamweight Bout;10;4;0;0.714;14
+345;Raphael Assuncao;-;Bantamweight Bout;12;7;0;0.632;19
+346;Raquel Pennington;Rocky;Women's Bantamweight Bout;13;6;0;0.684;19
+347;Rashad Evans;Suga;Light Heavyweight Bout;14;8;1;0.609;23
+348;Rashid Magomedov;Highlander;Lightweight Bout;5;1;0;0.833;6
+349;Raul Rosas Jr.;El Nino Problema;Bantamweight Bout;5;1;0;0.833;6
+350;Reinier de Ridder;RdR;Middleweight Bout;4;1;0;0.8;5
+351;Remco Pardoel;Grizzly;Open Weight Bout;3;2;0;0.6;5
+352;Renato Moicano;-;Lightweight Bout;12;7;0;0.632;19
+353;Renato Sobral;Babalu;Light Heavyweight Bout;6;4;0;0.6;10
+354;Ricardo Lamas;The Bully;Featherweight Bout;11;6;0;0.647;17
+355;Ricco Rodriguez;Suave;Heavyweight Bout;5;2;0;0.714;7
+356;Rich Attonito;The Raging Bull;Middleweight Bout;3;2;0;0.6;5
+357;Rich Franklin;Ace;Light Heavyweight Bout;14;6;0;0.7;20
+358;Rick Story;The Horror;Welterweight Bout;12;7;0;0.632;19
+359;Ricky Simon;-;Bantamweight Bout;10;6;0;0.625;16
+360;Rinat Fakhretdinov;Gladiator;Welterweight Bout;6;0;1;0.857;7
+361;Rinya Nakamura;Hybred;Bantamweight Bout;4;1;0;0.8;5
+362;Rob Font;-;Bantamweight Bout;12;8;0;0.6;20
+363;Robbie Lawler;Ruthless;Welterweight Bout;15;10;0;0.6;25
+364;Robert Whittaker;The Reaper;Middleweight Bout;17;7;0;0.708;24
+365;Rodolfo Vieira;-;Middleweight Bout;6;4;0;0.6;10
+366;Roger Huerta;El Matador;Lightweight Bout;6;2;0;0.75;8
+367;Roman Dolidze;-;Middleweight Bout;9;4;0;0.692;13
+368;Ronda Rousey;Rowdy;UFC Women's Bantamweight Title Bout;6;2;0;0.75;8
+369;Ronny Markes;-;Middleweight Bout;3;2;0;0.6;5
+370;Rory MacDonald;Red King;Welterweight Bout;9;4;0;0.692;13
+371;Rose Namajunas;Thug;UFC Women's Strawweight Title Bout;12;6;0;0.667;18
+372;Rousimar Palhares;Toquinho;Middleweight Bout;8;4;0;0.667;12
+373;Royce Gracie;-;Open Weight Bout;8;1;1;0.8;10
+374;Rustam Khabilov;Tiger;Lightweight Bout;10;3;0;0.769;13
+375;Ryan Bader;Darth;Light Heavyweight Bout;15;5;0;0.75;20
+376;Ryan Hall;The Wizard;Featherweight Bout;5;1;0;0.833;6
+377;Ryan LaFlare;-;Welterweight Bout;7;3;0;0.7;10
+378;Ryan Spann;Superman;Light Heavyweight Bout;9;6;0;0.6;15
+379;Sage Northcutt;Super;Lightweight Bout;6;2;0;0.75;8
+380;Said Nurmagomedov;-;Bantamweight Bout;7;4;0;0.636;11
+381;Sam Patterson;-;Welterweight Bout;4;1;0;0.8;5
+382;Santiago Ponzinibbio;Argentine Dagger;Welterweight Bout;12;8;0;0.6;20
+383;Scott Ferrozzo;The Pitbull;Open Weight Bout;3;2;0;0.6;5
+384;Sean Brady;-;Welterweight Bout;8;2;0;0.8;10
+385;Sean O'Malley;Suga;Bantamweight Bout;10;3;0;0.769;14
+386;Sean Pierson;The Punisher;Welterweight Bout;4;2;0;0.667;6
+387;Sean Sherk;The Muscle Shark;Welterweight Bout;8;4;0;0.667;12
+388;Sean Strickland;-;Middleweight Bout;16;7;0;0.696;23
+389;Sean Woodson;The Sniper;Featherweight Bout;7;2;1;0.7;10
+390;Sergei Pavlovich;-;Heavyweight Bout;8;3;0;0.727;11
+391;Sergey Morozov;-;Bantamweight Bout;3;2;0;0.6;5
+392;Sergio Pettis;-;Flyweight Bout;9;5;0;0.643;14
+393;Shamil Gaziev;-;Heavyweight Bout;3;2;0;0.6;5
+394;Shane Burgos;Hurricane;Featherweight Bout;8;3;0;0.727;11
+395;Shane Carwin;The Engineer;Heavyweight Bout;4;2;0;0.667;6
+396;Shara Magomedov;Bullet;Middleweight Bout;5;1;0;0.833;6
+397;Shavkat Rakhmonov;Nomad;Welterweight Bout;7;0;0;1.0;7
+398;Shawn Jordan;The Savage;Heavyweight Bout;6;4;0;0.6;10
+399;Sodiq Yusuff;Super;Featherweight Bout;6;4;0;0.6;10
+400;Song Yadong;Kung Fu Kid;Bantamweight Bout;11;3;1;0.733;15
+401;Steve Garcia;Mean Machine;Featherweight Bout;8;2;0;0.8;10
+402;Stevie Ray;Braveheart;Lightweight Bout;7;4;0;0.636;11
+403;Stipe Miocic;-;Heavyweight Bout;14;5;0;0.737;19
+404;TJ Dillashaw;-;Bantamweight Bout;13;5;0;0.722;18
+405;TJ Grant;-;Welterweight Bout;8;3;0;0.727;11
+406;Tabatha Ricci;Baby Shark;Women's Strawweight Bout;7;3;0;0.7;10
+407;Tagir Ulanbekov;-;Flyweight Bout;6;2;0;0.75;8
+408;Tatiana Suarez;-;Women's Strawweight Bout;8;1;0;0.889;9
+409;Tatsuro Taira;The Best;Flyweight Bout;8;1;0;0.889;9
+410;Taylor Lapilus;Double Impact;Bantamweight Bout;6;2;0;0.75;8
+411;Thales Leites;-;Middleweight Bout;13;8;0;0.619;21
+412;Thiago Silva;-;Light Heavyweight Bout;7;3;0;0.7;12
+413;Tim Credeur;-;Middleweight Bout;3;2;0;0.6;5
+414;Tim Kennedy;-;Middleweight Bout;3;2;0;0.6;5
+415;Tim Sylvia;The Maine-iac;UFC Heavyweight Title Bout;9;4;0;0.692;13
+416;Todd Duffee;-;Heavyweight Bout;3;2;0;0.6;6
+417;Tom Aspinall;-;Heavyweight Bout;8;1;0;0.889;10
+418;Tom Breese;-;Middleweight Bout;5;3;0;0.625;8
+419;Tom Nolan;Big Train;Lightweight Bout;4;1;0;0.8;5
+420;Tony Ferguson;El Cucuy;Lightweight Bout;15;9;0;0.625;24
+421;Tracy Cortez;-;Women's Flyweight Bout;6;2;0;0.75;8
+422;Umar Nurmagomedov;-;Bantamweight Bout;7;1;0;0.875;8
+423;Urijah Faber;The California Kid;Bantamweight Bout;11;7;0;0.611;18
+424;Uros Medic;The Doctor;Welterweight Bout;6;3;0;0.667;9
+425;Valentina Shevchenko;Bullet;UFC Women's Flyweight Title Bout;15;3;1;0.789;19
+426;Valter Walker;The Clean Monster;Heavyweight Bout;4;1;0;0.8;5
+427;Vicente Luque;The Silent Assassin;Welterweight Bout;16;8;0;0.667;24
+428;Victor Henry;La Mangosta;Bantamweight Bout;4;2;0;0.667;7
+429;Virna Jandiroba;Carcara;Women's Strawweight Bout;8;4;0;0.667;12
+430;Vitor Belfort;The Phenom;Middleweight Bout;15;10;0;0.6;26
+431;Vitor Petrino;-;Light Heavyweight Bout;6;2;0;0.75;8
+432;Waldo Cortes Acosta;Salsa Boy;Heavyweight Bout;9;2;0;0.818;11
+433;William Gomis;Jaguar;Featherweight Bout;5;1;0;0.833;6
+434;Wilson Gouveia;-;Light Heavyweight Bout;6;4;0;0.6;10
+435;Yair Rodriguez;El Pantera;Featherweight Bout;11;4;0;0.733;16
+436;Yan Xiaonan;-;Women's Strawweight Bout;9;4;0;0.692;13
+437;Yazmin Jauregui;-;Women's Strawweight Bout;3;2;0;0.6;5
+438;Yoel Romero;Soldier of God;Middleweight Bout;9;4;0;0.692;13
+439;Youssef Zalal;The Moroccan Devil;Featherweight Bout;8;3;1;0.667;12
+440;Yushin Okami;Thunder;Middleweight Bout;14;7;0;0.667;21
+441;Zabit Magomedsharipov;-;Featherweight Bout;6;0;0;1.0;6
+442;Zach Reese;Savage;Middleweight Bout;4;2;0;0.667;7
+443;Zak Cummings;-;Welterweight Bout;10;4;0;0.714;14
+444;Zhang Weili;Magnum;UFC Women's Strawweight Title Bout;10;3;0;0.769;13
